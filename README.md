@@ -1,7 +1,7 @@
 # Flutter To-Do App
 
 A feature-rich to-do app built with Flutter. Tasks are saved on the device, so they stay even after the app is closed.
-
+<img src="screenshots/home.png" width="300" alt="App screenshot">
 ## Features
 
 - Add, edit and delete tasks (swipe to delete, with undo)
